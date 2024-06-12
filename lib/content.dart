@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 
-class Content extends StatefulWidget {
-  const Content({super.key});
+class Contentss extends StatefulWidget {
+
+  const Contentss({super.key});
 
   @override
-  State<Content> createState() => _ContentState();
+  State<Contentss> createState() => _ContentssState();
 }
 
-class _ContentState extends State<Content> {
+class _ContentssState extends State<Contentss> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(backgroundColor: Colors.black,);
